@@ -1,24 +1,37 @@
-# USB-UART-CONVERTER-PCB
+# USB-UART Converter PCB
 
-## Overview
-This project is a USB-to-UART Converter PCB designed using KiCad.
+## 📌 Overview
 
-## Features
-- USB to UART communication
-- Compact 2-layer PCB
-- Designed using KiCad
-- Manufacturing-ready PCB layout
+This project is a USB-to-UART Converter PCB designed using KiCad. It is used to interface a computer with UART-based embedded systems.
 
-## Software Used
-- KiCad 9
+## ✨ Features
 
-## Project Files
+- USB to UART Communication
+- 2-Layer PCB Design
+- Compact PCB Layout
+- ERC and DRC Checked
+- Manufacturing Ready Gerber Files
+- ## 🛠 Software Used
+
+- KiCad 10
+
+## 📂 Project Files
+
+- KiCad Project (.kicad_pro)
 - Schematic (.kicad_sch)
 - PCB Layout (.kicad_pcb)
-- KiCad Project (.kicad_pro)
+- Gerber Files
+- Project images
+- ## 📷 Project Images
 
-## Images
-PCB layout, 3D views, and schematic are included in this repository.
+### Schematic
+![Schematic](images/schematic.png)
 
-## Author
-Yogesh Kumar
+### PCB Layout
+![PCB Layout](images/PCB.png)
+
+### Top 3D View
+![Top 3D](images/PCB top 3D view.png)
+
+### Bottom 3D View
+![Bottom 3D](images/PCB back 3D view.png)
