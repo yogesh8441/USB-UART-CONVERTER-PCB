@@ -22,7 +22,7 @@ This project is a USB-to-UART Converter PCB designed using KiCad. It is used to 
 - PCB Layout (.kicad_pcb)
 - Gerber Files
 - Project images
-- ## 📷 Project Images
+## 📷 Project Images
 
 ### Schematic
 ![Schematic](images/schematic.png)
