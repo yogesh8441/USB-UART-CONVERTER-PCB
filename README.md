@@ -31,7 +31,6 @@ This project is a USB-to-UART Converter PCB designed using KiCad. It is used to 
 ![PCB Layout](images/PCB.png)
 
 ### Top 3D View
-![Top 3D](images/PCB top 3D view.png)
-
+![Top 3D](images/PCB%20top%203D%20view.png)
 ### Bottom 3D View
-![Bottom 3D](images/PCB back 3D view.png)
+![Bottom 3D](images/PCB%20back%203D%20view.png)
